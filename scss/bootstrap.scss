@@ -1,14 +1,15 @@
-$main-font: 'inria Serif', serif;
-$feature-font: 'Fredericka the Great', serif;
+$font-family-sans-serif: 'League Spartan', sans-serif;
+// $font-family-serif: 'Inria Serif', serif;
 
-$primary:       #ff4500;
-$secondary:     #333; 
-$success:       #16ab16;
-$info:          #0b94cb;
-$warning:       #dcd109;
-$danger:        #f62525;
-$light:         #fffaf0;
-$background:    #012000;
+$primary: #ff4500;
+$secondary: #333; 
+$success: #16ab16;
+$info: #0b94cb;
+$warning: #dcd109;
+$danger: #f62525;
+$light: #fffaf0;
+$body-bg: #011b1b;
+$body-color: #fff;
 
 $spacer: 1rem !default;
 $spacers: (
@@ -28,7 +29,7 @@ $line-height-base: 1.7 !default;
 
 $navbar-nav-link-padding-x: 0.8rem;
 $navbar-padding-y: 1rem;
-$navbar-dark-colour: $light;
+$navbar-dark-color: $light;
 
 $button-radius: 50px;
 $button-padding-x: 30px;
