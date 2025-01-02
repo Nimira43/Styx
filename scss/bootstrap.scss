@@ -1,19 +1,13 @@
-// $primary:       $blue !default;
-// $secondary:     $gray-600 !default;
-// $success:       $green !default;
-// $info:          $cyan !default;
-// $warning:       $yellow !default;
-// $danger:        $red !default;
-// $light:         $gray-100 !default;
-// $dark:          $gray-900 !default;
+$main-font: 'inria Serif', serif;
+$feature-font: 'Fredericka the Great', serif;
 
-// $primary:       #ff4500;
-// $secondary:     #333;
-// $success:       #16ab16;
-// $info:          #0b94cb;
-// $warning:       #dcd109;
-// $danger:        #f13535;
-// $light:         #fffaf0;
-// $dark:          #111;
+$primary:       #ff4500;
+$secondary:     #333; 
+$success:       #16ab16;
+$info:          #0b94cb;
+$warning:       #dcd109;
+$danger:        #f62525;
+$light:         #fffaf0;
+$background:    #012000;
 
 @import '../node_modules/bootstrap/scss/bootstrap.scss'
