@@ -6,3 +6,8 @@
   letter-spacing: 3px;
   color: #ff4500;
 }
+
+.lead-heading,
+.lead-paragraph {
+  font-family: "Fredericka the Great", serif;
+}
