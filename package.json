@@ -1,0 +1,14 @@
+{
+  "name": "styx",
+  "version": "1.0.0",
+  "description": "Bootstrap website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Rabone",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.83.0"
+  }
+}
